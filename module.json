@@ -1,0 +1,8 @@
+{
+    "name": "Example Module",
+    "description": "Test Module",
+    "namespace": "Modules\\User\\",
+    "providers": [
+        "Modules\\User\\Providers\\UserServiceProvider"
+    ]
+}
