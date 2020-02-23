@@ -1,1 +1,1 @@
-Tạo thư mục user
+Tạo thư mục user. Sau đó chép code vào :)
